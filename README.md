@@ -1,3 +1,14 @@
+title: News Summarization And Text-to-Speech Application
+emoji: 👀
+colorFrom: indigo
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+license: mit
+short_description: News Summarization and Text-to-Speech Application
+
 # News Summarization and Text-to-Speech Application
 
 This application extracts key details from multiple news articles related to a given company, performs sentiment analysis, conducts a comparative analysis, and generates a text-to-speech (TTS) output in Hindi.
