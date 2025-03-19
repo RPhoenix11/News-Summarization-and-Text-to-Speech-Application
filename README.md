@@ -1,13 +1,13 @@
+---
 title: News Summarization And Text-to-Speech Application
-emoji: 👀
-colorFrom: indigo
-colorTo: pink
+emoji: 😁
+colorFrom: blue
+colorTo: red
 sdk: streamlit
 sdk_version: 1.43.2
 app_file: app.py
 pinned: false
-license: mit
-short_description: News Summarization and Text-to-Speech Application
+---
 
 # News Summarization and Text-to-Speech Application
 
