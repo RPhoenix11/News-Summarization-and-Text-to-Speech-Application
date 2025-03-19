@@ -57,14 +57,6 @@ news-summarization-app/
    streamlit run app.py
    ```
 
-### Hugging Face Spaces Deployment
-
-1. Fork this repository to your GitHub account.
-2. Create a new Space on Hugging Face Spaces.
-3. Select GitHub as your source and connect your forked repository.
-4. Choose Streamlit as the Space SDK.
-5. Deploy the app.
-
 ## Models and Implementation Details
 
 ### News Extraction
@@ -108,14 +100,3 @@ The application exposes several API endpoints for communication between the fron
 - Implement user authentication and result history
 - Add more visualization options for comparative analysis
 
-## Contribution Guidelines
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
